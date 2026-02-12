@@ -93,4 +93,4 @@ print ("estudiantes reprobados:", reprobados)
 
 <img width="957" height="343" alt="image" src="https://github.com/user-attachments/assets/0d2109e3-4bc2-46f1-b879-6f41c5b32da4" />
 
-
+Este programa toma una lista de notas de estudiantes y mejora automáticamente las notas que son iguales a 2.9, y les suma 0.3, luego cálcula cuántos estudiantes aprobaron y cuántos reprobarón teniendo en cuenta las notas mejoradas, además de calcular el promedio total de las notas.
